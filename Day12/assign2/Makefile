@@ -1,5 +1,5 @@
 
-TARGET = assign1
+TARGET = client
 
 CSRCS= $(TARGET).c
 CSRCS+= 
